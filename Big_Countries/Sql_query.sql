@@ -7,4 +7,5 @@ select name,population,area
   where
   population >= 25000000 
   or
-  area >= 3000000;
+  area >= 3000000
+limit 5;
