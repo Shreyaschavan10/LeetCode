@@ -1,6 +1,9 @@
 # Customers Who Never Order
 
 ## Problem Statement
+Write a solution to find all customers who never order anything.
+
+Return the result table in any order.
 
 Given the following database schema:
 
